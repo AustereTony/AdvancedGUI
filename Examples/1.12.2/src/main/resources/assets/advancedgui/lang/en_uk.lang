@@ -1,0 +1,23 @@
+itemGroup.tab_advancedgui=Advanced GUI
+
+searchField.search=search...
+
+contextAction.drop=Drop
+contextAction.destroy=Destroy
+contextAction.split=Split
+contextAction.equip=Equip
+contextAction.unequip=Unequip
+contextAction.stow=Stow
+contextAction.withdraw=Withdraw
+
+guiButton.mainSection=Inventory
+guiButton.weaponSection=Weapon
+guiButton.armorSection=Armor
+guiButton.toolsSection=Tools
+guiButton.consumablesSection=Consumables
+guiButton.materialsSection=Materials
+
+key.showInventoryFirst=Open inventory (I version)
+key.showInventorySecond=Open inventory (II version)
+
+tile.block_storage.name=Advanced storage
