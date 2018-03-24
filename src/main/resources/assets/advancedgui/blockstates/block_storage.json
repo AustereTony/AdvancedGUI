@@ -1,0 +1,8 @@
+{
+    "variants": {
+    
+        "normal": [
+            { "model": "advancedgui:block_storage" }
+        ]
+    }
+}

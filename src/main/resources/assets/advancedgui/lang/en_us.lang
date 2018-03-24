@@ -1,0 +1,29 @@
+itemGroup.tab_advancedgui=Advanced GUI
+
+container.inventory=
+container.crafting=
+
+searchField.search=search...
+
+contextAction.drop=Drop
+contextAction.destroy=Destroy
+contextAction.split=Split
+contextAction.equip=Equip
+contextAction.unequip=Unequip
+contextAction.stow=Stow
+contextAction.withdraw=Withdraw
+
+guiButton.mainSection=Inventory
+guiButton.weaponSection=Weapon
+guiButton.armorSection=Armor
+guiButton.toolsSection=Tools
+guiButton.consumablesSection=Consumables
+guiButton.materialsSection=Materials
+
+section.test=Empty second section
+section.switch=switch section
+
+key.showInventoryFirst=Open inventory (I version)
+key.showInventorySecond=Open inventory (II version)
+
+tile.block_storage.name=Advanced storage
